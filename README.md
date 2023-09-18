@@ -34,13 +34,13 @@
 
 14.) Duration - The length of the song.
 
-## Imports used in the notebooks.
+## Imports used in the notebooks
 + Pandas
 + Numpy
 + Matplotlib
 + Sklearn
 
-## Breakdown of Workbook.
+## Breakdown of Workbook
 
 The project is comprised of 3 main folders being code, images, and data.
 
@@ -53,6 +53,12 @@ The project is comprised of 3 main folders being code, images, and data.
 ***Images*** folder holds the graphs I used for my presentation.
 
 ***Data*** folder contains all the playlists I gathered into csv's. 
+
+## Tableau Public Dashboard
+
+After you finish going over the notebooks and want to have a more interactive way to look at making your own playlists by energy, and seeing how other features like bpm, duration, popularity, etc... Feel free and access the link below!
+
+https://public.tableau.com/app/profile/robert.huey7416/viz/Projectfinal_16950725212800/Energy?publish=yes
 
 ## Overview and Conclusions
 
